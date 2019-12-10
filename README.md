@@ -1,2 +1,2 @@
 # tools
-*. regex - (https://regexr.com/)
+ * regex - (https://regexr.com/)
